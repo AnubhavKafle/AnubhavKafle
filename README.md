@@ -1,7 +1,5 @@
-<h1 align="center">Namaste
-
-![image](https://as1.ftcdn.net/v2/jpg/00/91/07/84/1000_F_91078471_n4mQLSyxNj1YJPX5GbxZmzrL5Eu47jEl.jpg)
-
+<h1 align="center">Namaste, Hello
+  
 <h2 align="center">Welcome to my GitHub profile.
 
 ### My social media handles:

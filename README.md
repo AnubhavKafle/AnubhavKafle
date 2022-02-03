@@ -1,7 +1,8 @@
 <h1 align="center">Hello world, welcome to my GitHub profile.
 
-
-<a href="https://twitter.com/KaphleAnubhav" > Connect with me on Twitter </a>
+### My social media handles
+<a href="https://twitter.com/KaphleAnubhav" > Twitter </a> 
+<a href="https://www.linkedin.com/in/anubhavkaphle00001/" > LinkedIn </a> 
 
 
 ### About me:
@@ -40,9 +41,9 @@ and sometimes
 
 ## Feel free to connect with me at 
 <address>
-Email address: <a href="mailto:anubhavkaphle@gmail.com">Anubhav</a>.<br>
+Email address: <a href="mailto:anubhavkaphle@gmail.com">Anubhav</a> <br>
 Visit us at: Melbourne Integrative Genomics (MIG)<br>
-<a href="https://sites.research.unimelb.edu.au/integrative-genomics/MIG-home" > MIG webpage<\a> <br>
-The University of Melbourne<br>
-Parkville, Melbourne 3010
+<a href="https://sites.research.unimelb.edu.au/integrative-genomics/MIG-home" > MIG webpage </a> <br>
+The University of Melbourne <br>
+Parkville, Melbourne 3010 <br>
 </address>

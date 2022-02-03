@@ -16,7 +16,7 @@ Anubhav Kaphle's <a href="https://orcid.org/
 
 **Highly interested in building robust statistical models by integrating multimodal data (genomic data, health record, and other health data) for clinical and genomic diagnostics as well as for disease risk prediction**
 
-Working on the development of a novel statistical model to better quantify the contribution of genetics towards trait variation in a population (known as **SNP heritability**), and study the distribution of heritability across the functional regions in the genome. It can further be extended to develop better polygenic risk models (**genetic risk prediction models**), which is a step towards preventative and precision medicine.
+Working on the development of a novel statistical model to better quantify the contribution of genetics towards trait variation in a population (known as **(SNP) heritability**), and study the distribution of heritability across the functional regions in the genome. It can further be extended to develop better polygenic risk models (**genetic risk prediction models**), which is a step towards preventative and precision medicine.
 
 Proficient in handling and analyzing biobank-sized genomic datasets such as the UK biobank datasets using High-Performance computing systems (HPCs).
 

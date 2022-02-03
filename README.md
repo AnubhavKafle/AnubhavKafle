@@ -1,4 +1,5 @@
 <h1 align="center">Namaste
+
 ![image](https://i.dlpng.com/static/png/6745035_preview.png)
 
 <h2 align="center">Welcome to my GitHub profile.

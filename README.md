@@ -37,6 +37,7 @@ Have a keen interest in studying **trans-ethnic populations** to better understa
 - Digital Health
 - Genetic Data Privacy
 - Precision medicine
+- Science outreach
 
 #### and sometimes 
 - Economics

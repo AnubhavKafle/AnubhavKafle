@@ -1,11 +1,11 @@
 <h1 align="center">Hello world, welcome to my GitHub profile.
 
 ### My social media handles:
-<a href="https://twitter.com/KaphleAnubhav" > Twitter </a>  <br>
-<a href="https://www.linkedin.com/in/anubhavkaphle00001/" > LinkedIn </a>
+<a href="https://twitter.com/KaphleAnubhav" target="_blank" > Twitter </a>  <br>
+<a href="https://www.linkedin.com/in/anubhavkaphle00001/" target="_blank" > LinkedIn </a>
   
 ### Google Scholar page:
-<a href="https://scholar.google.co.in/citations?user=B2vwpDoAAAAJ&hl=en" > Anubhav Kaphle publications </a>
+<a href="https://scholar.google.co.in/citations?user=B2vwpDoAAAAJ&hl=en" target="_blank"> Anubhav Kaphle publications </a>
 
 ## About me:
 ** Passionate about understanding and tackling human diseases by unlocking the power of the genome **
@@ -41,6 +41,6 @@ Have a keen interest in studying trans-ethnic populations to better understand t
 ## Feel free to connect with me at 
 Email address: <a href="mailto:anubhavkaphle@gmail.com">Anubhav's email</a> <br>
 Visit us at: Melbourne Integrative Genomics (MIG)<br>
-<a href="https://sites.research.unimelb.edu.au/integrative-genomics/MIG-home" > MIG webpage </a> <br>
+<a href="https://sites.research.unimelb.edu.au/integrative-genomics/MIG-home" target="_blank" > MIG webpage </a> <br>
 The University of Melbourne <br>
 Parkville, Melbourne 3010 <br>

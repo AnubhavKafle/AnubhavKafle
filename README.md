@@ -7,9 +7,9 @@
 ### Google Scholar page:
 <a href="https://scholar.google.co.in/citations?user=B2vwpDoAAAAJ&hl=en" target="_blank"> Anubhav Kaphle publications </a>
 
-### ORCID ID
+### ORCiD ID
 Anubhav Kaphle's <a href="https://orcid.org/
-  0000-0002-1972-6819" > ORCID </a>
+  0000-0002-1972-6819" > ORCiD </a>
 
 ## About me:
 **Passionate about understanding and tackling human diseases by unlocking the power of the genome**

@@ -1,4 +1,6 @@
-<h1 align="center">Namaste, hello, welcome to my GitHub profile.
+<h1 align="center">Namaste,![image](https://user-images.githubusercontent.com/17887065/152285207-f6b33e9f-ecb0-4152-a11f-9e799fd6f305.png)
+
+<h2 align="center">Welcome to my GitHub profile.
 
 ### My social media handles:
 <a href="https://twitter.com/KaphleAnubhav" target="_blank" > Twitter </a>  <br>

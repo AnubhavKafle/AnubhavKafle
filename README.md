@@ -1,7 +1,7 @@
 <h1 align="center">Anubhav Kaphle Github profile
 
 
-<a href="https://twitter.com/KaphleAnubhav" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
+<a href="https://twitter.com/KaphleAnubhav" ><img src="<a href="https://twitter.com/intent/tweet?screen_name=KaphleAnubhav&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @KaphleAnubhav</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>" /> </a>
 
 
 ### Contents:

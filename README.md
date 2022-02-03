@@ -1,6 +1,6 @@
 <h1 align="center">Namaste
 
-![image](https://i.dlpng.com/static/png/6745035_preview.png)
+![image](https://as1.ftcdn.net/v2/jpg/00/91/07/84/1000_F_91078471_n4mQLSyxNj1YJPX5GbxZmzrL5Eu47jEl.jpg)
 
 <h2 align="center">Welcome to my GitHub profile.
 

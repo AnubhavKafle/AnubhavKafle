@@ -1,9 +1,11 @@
 <h1 align="center">Hello world, welcome to my GitHub profile.
 
-### My social media handles
+### My social media handles:
 <a href="https://twitter.com/KaphleAnubhav" > Twitter </a>  <br>
-<a href="https://www.linkedin.com/in/anubhavkaphle00001/" > LinkedIn </a> 
-
+<a href="https://www.linkedin.com/in/anubhavkaphle00001/" > LinkedIn </a>
+  
+### Google Scholar page:
+<a href="https://scholar.google.co.in/citations?user=B2vwpDoAAAAJ&hl=en" > Anubhav Kaphle publications </a>
 
 ### About me:
 ** Passionate about understanding and tackling human diseases by unlocking the power of the genome **
@@ -15,10 +17,6 @@ Working on the development of a novel statistical model to better quantify the c
 Proficient in handling and analyzing biobank-sized genomic datasets such as the UK biobank datasets using High-Performance computing systems (HPCs).
 
 Have a keen interest in studying trans-ethnic populations to better understand the genetic mechanisms behind common (and rare) diseases. Extensively collaborated with researchers in Taiwan to conduct large-scale heritability analysis on Taiwanese genomic datasets.
-
-
-## Google Scholar page
-<a href="https://scholar.google.co.in/citations?user=B2vwpDoAAAAJ&hl=en" > Anubhav Kaphle publications </a>
 
 ## Experiences
 - Genomic data analysis

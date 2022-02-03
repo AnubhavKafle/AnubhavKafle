@@ -7,7 +7,7 @@
 ### Google Scholar page:
 <a href="https://scholar.google.co.in/citations?user=B2vwpDoAAAAJ&hl=en" > Anubhav Kaphle publications </a>
 
-### About me:
+## About me:
 ** Passionate about understanding and tackling human diseases by unlocking the power of the genome **
 
 ** Highly interested in building robust statistical models by integrating multimodal data (genomic data, health record, and other health data) for clinical and genomic diagnostics as well as for disease risk prediction **
@@ -26,7 +26,7 @@ Have a keen interest in studying trans-ethnic populations to better understand t
 - C++
 - High-performance computing.
 
-# Interests
+## Interests
 - Statistical Learning
 - Deep Learning methods
 - Human Genetics

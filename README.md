@@ -1,8 +1,8 @@
 <h1 align="center">Hello world, welcome to my GitHub profile.
 
 ### My social media handles:
-<a href="https://twitter.com/KaphleAnubhav"target="_blank" > Twitter </a>  <br>
-<a href="https://www.linkedin.com/in/anubhavkaphle00001/"target="_blank" > LinkedIn </a>
+<a href="https://twitter.com/KaphleAnubhav" target="_blank" > Twitter </a>  <br>
+<a href="https://www.linkedin.com/in/anubhavkaphle00001/" target="_blank" > LinkedIn </a>
   
 ### Google Scholar page:
 <a href="https://scholar.google.co.in/citations?user=B2vwpDoAAAAJ&hl=en" target="_blank"> Anubhav Kaphle publications </a>

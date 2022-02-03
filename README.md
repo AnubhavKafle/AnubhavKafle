@@ -1,5 +1,5 @@
 <h1 align="center">Namaste
-![image](https://user-images.githubusercontent.com/17887065/152285207-f6b33e9f-ecb0-4152-a11f-9e799fd6f305.png)
+![image](https://i.dlpng.com/static/png/6745035_preview.png)
 
 <h2 align="center">Welcome to my GitHub profile.
 

@@ -35,7 +35,8 @@ Have a keen interest in studying trans-ethnic populations to better understand t
 - Digital Health
 - Genetic Data Privacy
 - Precision medicine
-and sometimes 
+
+#### and sometimes 
 - Economics
 - Science policy research
 

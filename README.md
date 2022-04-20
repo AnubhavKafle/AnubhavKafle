@@ -1,4 +1,4 @@
-<h1 align="center">Namaste, Hello
+<h1 align="center">Namaste :pray:, Hello
   
 <h2 align="center">Welcome to my GitHub profile.
 

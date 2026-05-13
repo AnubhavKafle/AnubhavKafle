@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://twitter.com/KaphleAnubhav"><img src="https://img.shields.io/badge/Twitter-@KaphleAnubhav-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anubhavkaphle00001/"><img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Kaphle-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anubhav-kaphle/"><img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Kaphle-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://scholar.google.co.in/citations?user=B2vwpDoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat&logo=google-scholar&logoColor=white"/></a>
   <a href="https://orcid.org/0000-0002-1972-6819"><img src="https://img.shields.io/badge/ORCiD-0000--0002--1972--6819-A6CE39?style=flat&logo=orcid&logoColor=white"/></a>
   <a href="https://people.csiro.au/k/a/anubhav-kaphle"><img src="https://img.shields.io/badge/CSIRO%20Profile-AEHRC-00A9CE?style=flat"/></a>

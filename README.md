@@ -18,7 +18,7 @@
 
 ## 🧬 About Me
 
-I am a computational scientist and researcher passionate about **unlocking the power of genomics to understand and prevent human disease**. My work sits at the intersection of **statistical genetics**, **AI/machine learning**, and **digital health infrastructure** — building tools and methods that translate genomic insights into real-world clinical impact.
+I am a computational scientist and researcher passionate about **unlocking the power of genomics and other health data to understand and prevent human disease**. My work sits at the intersection of **statistical genetics**, **AI/machine learning**, and **digital health infrastructure** — building tools and methods that translate genomic insights into real-world clinical impact.
 
 Currently at the **CSIRO Australian e-Health Research Centre (AEHRC)** in Melbourne, I develop cloud-native genomic platforms, privacy-preserving analytics methods, and scalable bioinformatics pipelines for population-scale datasets.
 
@@ -28,10 +28,44 @@ Currently at the **CSIRO Australian e-Health Research Centre (AEHRC)** in Melbou
 
 ## 🔬 Research Focus
 
-- **SNP Heritability & Polygenic Risk Scores** — Developing novel statistical models to quantify the genetic contribution to trait variation and building next-generation polygenic risk models for preventive and precision medicine
-- **Trans-Ethnic Genomics** — Large-scale GWAS and heritability analysis across diverse populations, including extensive collaboration with researchers in Taiwan
-- **Genomic Data Governance** — Designing ethical, privacy-preserving frameworks for genomic consent management and data sovereignty
-- **AI Agents for Genomics** — Exploring agentic AI frameworks to automate and enhance genome data discovery, analytics pipelines, and consent workflows
+
+---
+
+### 🔐 Genomic Data Governance & Privacy-Preserving Analytics
+Genomic data is uniquely sensitive — it is immutable, inherited, and identifies not just individuals but entire families. Responsible genomic research demands infrastructure that is **ethical by design**. I architect and build frameworks that embed data sovereignty, dynamic consent, and access control directly into genomic data platforms.
+
+Key contributions include:
+
+- **GeneGuardian** — A cloud-native dynamic consent and genomic information management platform, deployed to support Australia's first newborn genomic screening trial (TRAIL). Built on AWS (Cognito · Lambda · DynamoDB · API Gateway · SES) with a ReactJS/NodeJS frontend and Terraform IaC. Implements self-sovereign identity principles, giving participants real-time control over how their genomic data is used.
+- **GA4GH Standards Alignment** — Active involvement in the Global Alliance for Genomics and Health (GA4GH) consortiums, including alignment with Beacon v2 protocols, data access frameworks, and newborn screening genomic standards.
+- **Privacy-Preserving Analytics** — Research into **federated learning** and **secure multiparty computation** approaches that allow genomic analyses to be conducted across institutions without raw data leaving its source — a critical requirement for sensitive clinical genomic data.
+
+**Stack & Standards:** AWS · Terraform · ReactJS · GA4GH Beacon v2 · Federated Learning · SOC2 · FHIR · HL7
+
+---
+
+### 🤖 AI Agents & Machine Learning for Omics Data Analysis
+The scale and complexity of modern omics data — genomic, transcriptomic, proteomic, and clinical — demands AI systems that go beyond static pipelines. I am actively developing and exploring **agentic AI frameworks** that can autonomously orchestrate multi-step genomic workflows, reason over heterogeneous data types, and interact with genomic data infrastructure through structured APIs.
+
+**Agentic Genomics Infrastructure:**
+- Designing AI agent systems (using frameworks such as CrewAI and Claude-based agents) to automate tasks like variant QC, cohort curation, phenotype harmonisation, and report generation
+- Exploring "agentification" of GA4GH Beacon — replacing static client-initiated query APIs with stateful, reasoning agents capable of multi-hop data discovery across federated genomic nodes
+- Building consent governance agents that dynamically interpret participant preferences and enforce access policies in real time
+
+**ML/AI for Omics:**
+- **Random Forest & Gradient Boosting** for genomic feature selection and variant prioritisation
+- **Deep Learning** (CNN, Transformer-based models) for sequence-level variant effect prediction and multi-omics integration
+- **Federated & Privacy-Aware ML** — training models on distributed genomic datasets without centralising sensitive data
+- **Multimodal Data Integration** 
+
+---
+
+### 🌏 Trans-Ethnic & Diverse Population Genomics
+Most large-scale GWAS have been conducted predominantly in European-ancestry cohorts, limiting the generalisability of genetic findings and risk models to diverse populations. My research addresses this gap by conducting **large-scale heritability and association analyses across trans-ethnic populations**, including extensive collaboration with researchers in Taiwan on Taiwanese biobank datasets.
+
+This work explores how **linkage disequilibrium (LD) structure**, **allele frequency differences**, and **gene-environment interactions** vary across ancestries — and how these differences affect the transferability of PRS models. Improving cross-population genomic inference is essential for equitable precision medicine.
+
+**Methods & Tools:** Cross-population LD analysis · Ancestry-stratified GWAS · Meta-analysis (METAL) · Admixture modelling · Propensity Score Matching (PSM) · PLINK · REGENIE
 
 ---
 
@@ -64,11 +98,11 @@ Large-scale genome-wide association studies on biobank-sized datasets (UK Bioban
 
 | Domain | Tools & Technologies |
 |---|---|
-| **Languages** | Python · R · Bash · AWK · SQL · C++ · LaTeX |
-| **Cloud & Infra** | AWS (EC2, Lambda, DynamoDB, Cognito, S3) · Terraform · DNAnexus |
+| **Languages** | Python · R · Bash · AWK · SQL ·  LaTeX |
+| **Cloud & Infra** | AWS (EC2, Lambda, DynamoDB, Cognito, S3) · Terraform  |
 | **Bioinformatics** | PLINK · REGENIE · GCTA · VCF processing · Genome imputation |
 | **HPC & Big Data** | SLURM/PBS HPCs · Apache Spark · DNAnexus |
-| **ML/AI** | Random Forest · Deep Learning · Federated Learning · Agentic AI (CrewAI, Claude) |
+| **ML/AI** | Random Forest · Deep Learning · Federated Learning · Agentic AI (CrewAI, LangChain and LangGraph) |
 | **Data & Dev** | Git/GitHub · dbt · R (tidyverse, ggplot2) · ReactJS · NodeJS |
 
 ---
@@ -82,18 +116,9 @@ Large-scale genome-wide association studies on biobank-sized datasets (UK Bioban
 - Digital Health Infrastructure & Policy
 - Trans-ethnic Population Genetics
 - Science Outreach & Mentorship
-- *(occasionally)* Economics · Science Policy
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 📬 Get In Touch
 
